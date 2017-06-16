@@ -8,7 +8,7 @@
 
 ### Ruby on Rails
 
-[Rails 入门](http://guides.ruby-china.org/getting_started.html)
+[Rails 入门](https://ruby-china.github.io/rails-guides/getting_started.html)
 
 + 如何安装 Rails、创建 Rails 应用，如何连接数据库；
 + Rails 应用的基本文件结构；
